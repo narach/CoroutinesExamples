@@ -1,0 +1,6 @@
+include ':retrofit'
+include ':firestore'
+include ':scopes'
+include ':threadsclassic'
+include ':app'
+rootProject.name = "CoroutinesExamples"
